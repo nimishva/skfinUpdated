@@ -1,0 +1,74 @@
+[
+  {
+    "empid": 1,
+    "empname": "Admin",
+    "parentid": 0,
+    "empdesgid": 1,
+    "supervisorid": 0,
+    "empdesgname": ""
+  },
+  {
+    "empid": 2,
+    "empname": "user1",
+    "parentid": 1,
+    "empdesgid": 2,
+    "supervisorid": 1,
+    "empdesgname": ""
+  },
+  {
+    "empid":3,
+    "empname": "user2",
+    "parentid": 1,
+    "empdesgid": 2,
+    "supervisorid": 1,
+    "empdesgname": ""
+  },
+  {
+    "empid":4,
+    "empname": "user3",
+    "parentid": 2,
+    "empdesgid": 2,
+    "supervisorid":2,
+    "empdesgname": ""
+  },
+  {
+    "empid":11,
+    "empname": "user11",
+    "parentid": 2,
+    "empdesgid": 2,
+    "supervisorid":4,
+    "empdesgname": ""
+  },
+  {
+    "empid":8,
+    "empname": "user4",
+    "parentid": 3,
+    "empdesgid": 2,
+    "supervisorid":4,
+    "empdesgname": ""
+  },
+  {
+    "empid":5,
+    "empname": "user5",
+    "parentid": 2,
+    "empdesgid": 2,
+    "supervisorid":3,
+    "empdesgname": ""
+  },
+  {
+    "empid":6,
+    "empname": "user6",
+    "parentid": 2,
+    "empdesgid": 2,
+    "supervisorid":3,
+    "empdesgname": ""
+  },
+  {
+    "empid":7,
+    "empname": "user7",
+    "parentid": 1,
+    "empdesgid": 2,
+    "supervisorid":2,
+    "empdesgname": ""
+  }
+]
